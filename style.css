@@ -99,6 +99,7 @@ body {
 .info h1:hover {
   color: var(--yellow);
   cursor: pointer;
+  transition: all, 0.5s;
 }
 
 .info .details {
